@@ -1,5 +1,4 @@
-# Numerical-Modelling-of-Bolt-Loosening-
-# Why Does a Bolt Loosen Under Vibration?
+# Numerical-Modelling-of-Bolt-Loosening: Why Does a Bolt Loosen Under Vibration?
 
 ### Junker Test, Bolt Mechanics, Preload, and Axial vs. Transverse Vibrational Loading
 
